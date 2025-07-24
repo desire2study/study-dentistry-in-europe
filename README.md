@@ -1,2 +1,3 @@
-# study-dentistry-in-europe
-Desire2Study – Study Dentistry in Europe
+# Study Dentistry in Europe
+This repository contains a static landing page for Desire2Study about studying dentistry in Europe.
+Visit the page: https://study-dentistry-in-europe.pages.dev
